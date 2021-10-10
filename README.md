@@ -1,4 +1,4 @@
-![топология](https://mail.google.com/mail/u/0?ui=2&ik=f716318295&attid=0.1&permmsgid=msg-f:1713223511810416425&th=17c697b4fa4e9f29&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ92y-01MOr0qHYwn36ZDcESvRHIOkg4EMS9MqL-r1D1bGtE1Cmj1AENsGo_vzW8GMH3UvOOdt2y5tLIZZ7ThxxyPpO07dHcdq4VCzSzaHmtuKQQM07mWK5W2BQ&disp=emb&realattid=17c697ae800e4e019f71)
+![топология](https://github.com/mrvol3x/Var1/blob/main/image_6487327.JPG?raw=true)
 
 В этой лабороторной использовалось:
 2 коммутатора Cisco 2960
