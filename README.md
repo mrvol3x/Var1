@@ -14,12 +14,7 @@ Switch3:2 отдел
 
 Switch2:1 отдел
 
-Справа от обоих зона отдыха
-
-Отделы|Диапазон адресов|Маска сети|
-
-2     |    1-62        |255.255.255.192|
-
-1     |     64-126    |255.255.255.192|
-
-Зона отдыха|129-190    |255.255.255.192|
+| First Header | Second Hearder | Third Header |
+| ------------ | -------------- | ------------ |
+| Content Cell |  Content Cell  | Content Cell |
+| Content Cell |  Content Cell  | Content Cell |
